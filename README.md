@@ -1,6 +1,6 @@
 <h1>ROBOFRIENDS</h1>
 <h2>Simple React App</h2>
-sterap.github.io/robofriends/
+https://sterap.github.io/robofriends/
 
 ![alt text](src/Media/image_preview.png)
 
