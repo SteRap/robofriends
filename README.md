@@ -5,7 +5,7 @@
 
 <h2>Explanation</h2>
 ROBOFRIENDS is a small and simple React App which I developed in order to start practicing with React and API. The app is built on the API provided by Robohash https://robohash.org. 
-The app include a searching feature that allows users to filter among their robofriends by typing the robots' names. 
+The app includes a searching feature that allows users to filter among their robofriends by typing the robots' names. 
 
 
 
