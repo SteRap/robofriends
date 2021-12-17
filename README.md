@@ -1,1 +1,1 @@
-![link]src/Media/image_preview.png
+![alt text](src/Media/image_preview.png)
